@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Mike.OAuth2</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>mike706574</Authors>
+    <Title>Mike.OAuth2</Title>
+    <Description>OAuth 2 stuff for .NET.</Description>
+    <PackageSummary>OAuth 2 stuff for .NET.</PackageSummary>
+    <PackageProjectUrl>https://github.com/mike706574/dotnet-oauth2</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://www.eclipse.org/legal/epl-v10.html</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/mike706574/dotnet-oauth2</RepositoryUrl>
+    <Copyright>Copyright 2018</Copyright>
+  </PropertyGroup>
+</Project>
